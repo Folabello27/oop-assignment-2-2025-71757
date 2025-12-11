@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <StartupObject>oop_assignment_2_2025_71757.Program</StartupObject>
+
+        <TargetFramework>net8.0</TargetFramework>
+        <RootNamespace>oop_assignment_2_2025_71757</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <DisableImplicitProgramMain>true</DisableImplicitProgramMain>
+    </PropertyGroup>
+
+</Project>
